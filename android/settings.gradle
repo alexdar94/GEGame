@@ -1,0 +1,3 @@
+rootProject.name = 'gegame'
+
+include ':app'
